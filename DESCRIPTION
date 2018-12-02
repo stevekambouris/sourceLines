@@ -1,13 +1,14 @@
 Package: sourceLines
-Title: What the Package Does (One Line, Title Case)
+Title: Executes a range of line numbers within a source file
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Steve",
+           family = "Kambouris",
            role = c("aut", "cre"),
            email = "first.last@example.com")
-Description: What the package does (one paragraph).
+Description: This package contains a single function which will execute a range
+of lines from a source file. The lines to be executed are specified by a
+starting line number and ending line number.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 6.1.1
