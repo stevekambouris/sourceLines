@@ -6,9 +6,7 @@ Authors@R:
            family = "Kambouris",
            role = c("aut", "cre"),
            email = "first.last@example.com")
-Description: This package contains a single function which will execute a range
-of lines from a source file. The lines to be executed are specified by a
-starting line number and ending line number.
+Description: This package contains a single function which will execute a range of lines from a source file. The lines to be executed are specified by a starting line number and ending line number.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
